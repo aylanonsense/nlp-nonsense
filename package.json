@@ -1,0 +1,18 @@
+{
+  "name": "nlp-nonsense",
+  "version": "0.0.0",
+  "description": "Trying out some nlp libraries",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bridgs/nlp-nonsense.git"
+  },
+  "author": "bridgs",
+  "license": "MIT",
+  "dependencies": {
+    "dependency-parser": "^1.0.3",
+    "nlp_compromise": "^6.5.0",
+    "node-pos": "0.0.4",
+    "stanford-simple-nlp": "git+https://github.com/kareem1234/node-stanford-simple-nlp.git"
+  }
+}
